@@ -1,0 +1,32 @@
+*{
+    width: auto;
+    height: auto;
+    margin: 0%;
+}
+article{
+    background-color: rgb(247, 242, 237);
+}
+.header-class{
+    background-color: black;
+    color: white;
+}
+hr{
+    height: 1px;
+}
+.navbar{
+    border-top: 1px solid maroon;
+    border-bottom: 1px solid maroon;
+    display: flex;
+    justify-content: space-evenly;
+}
+/*.navbar hr{
+    height: 1px;
+    color: maroon;
+}*/
+.navbar div{
+    padding-left: 142px;
+    padding-right: 142px;
+}
+img{
+    margin-top: 10px;
+}
